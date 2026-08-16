@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://komatachi.com"><img src="https://img.shields.io/badge/komatachi.com-2a4d8f?style=flat&logoColor=white" alt="website"></a>
-  <img src="https://img.shields.io/badge/status-pre--prototype-9a6400?style=flat" alt="status">
+  <img src="https://img.shields.io/badge/status-prototype%20in%20build-9a6400?style=flat" alt="status">
   <img src="https://img.shields.io/badge/built%20in-Europe-0f7a3d?style=flat" alt="Europe">
   <img src="https://img.shields.io/badge/LeRobot-compatible-2a4d8f?style=flat" alt="LeRobot">
 </p>
@@ -42,11 +42,14 @@ robots you own are also the fleet that produces the training data.
 
 ## Where we are
 
-**No prototype exists yet.** The design is frozen, the bill of materials is
-costed against real EU suppliers, and reservations are open. Specifications are
-published as either *Confirmed* — design frozen, parts specified — or *Target* —
-design intent, not yet measured on hardware. We label them because the
-alternative is lying to you.
+**A prototype is in build — the first subsystems are running.** There is no
+finished robot yet. The design is frozen, the bill of materials is costed
+against real EU suppliers, and reservations are open.
+
+Specifications are published as either *Confirmed* — design frozen, parts
+specified — or *Target* — design intent, not yet measured on hardware. We label
+them because the alternative is lying to you, and we would rather say
+"partially built" than let you assume more than that.
 
 ## Built on open work
 
