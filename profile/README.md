@@ -1,5 +1,5 @@
 <h1 align="center">Komatachi 🍉</h1>
-<p align="center">Affordable dual-arm mobile robots. Built in Europe.</p>
+<p align="center">Affordable mobile robots. Built in Europe.</p>
 <p align="center"><a href="https://komatachi.com">komatachi.com</a></p>
 
 ---
