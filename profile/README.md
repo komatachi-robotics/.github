@@ -10,12 +10,11 @@ Dual-arm mobile robot. Two independent 1 m lifts, open cargo bay.
 
 | | |
 |---|---|
-| Arms | 2 × 6-DoF, SO-101 compatible |
-| Lift | 2 × 1000 mm, independent, self-locking |
-| Body | open-front cargo bay |
-| Compute | Raspberry Pi 5, off-board inference |
+| Arms | 2 × 7-DoF, SO-101 compatible |
+| Lift | 600 mm, self-locking |
+| Compute | Raspberry Pi, off-board inference |
 | Software | LeRobot, ROS 2, browser teleoperation |
-| Price | €2,490 ex-VAT |
+| Price | €1690 ex-VAT |
 
 Prototype in build. Reservations open at [komatachi.com](https://komatachi.com).
 
