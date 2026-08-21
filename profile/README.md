@@ -6,7 +6,7 @@
 
 ### K0
 
-Dual-arm mobile robot. Two independent 1 m lifts, open cargo bay.
+Dual-arm mobile robot.
 
 | | |
 |---|---|
